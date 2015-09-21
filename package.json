@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-simple-list",
+  "version": "1.0.0",
+  "description": "### Desarollado por Hector Flores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecto932/reactjs-simple-list.git"
+  },
+  "author": "hecto932",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hecto932/reactjs-simple-list/issues"
+  },
+  "homepage": "https://github.com/hecto932/reactjs-simple-list#readme"
+}
